@@ -1,0 +1,21 @@
+---
+title: "Sample analysis"
+author: "Dr. Richards"
+date: "2025-08-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+1+4
+```
+```{r}
+ensure that chunks are labeled with a brief description
+maintain consistency in descriptions
+include line references to different chunks that relate to another chunk
+```
+
